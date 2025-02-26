@@ -1,4 +1,4 @@
-# 🎨 Museum Art Analysis - SQL Project
+# Museum Art Analysis - SQL Project
 
 ## **Project Overview**
 This project explores **art collections in museums** using SQL queries to analyze painting styles, artists, and subject matter. The goal is to **uncover trends in museum art collections**, including the prevalence of **Cubist paintings, diverse artist representations, and the most frequently painted subjects.**
